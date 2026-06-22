@@ -22,39 +22,39 @@
             }
           },
           {
-            "id": "f5712de77e7899d7",
+            "id": "6a82daf02a8d7e08",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260621154108.png"
+                "file": "Pasted image 20260621165848.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260621154108"
+              "title": "Pasted image 20260621165848"
             }
           },
           {
-            "id": "0d426b02829a77df",
+            "id": "43557359bd2917a2",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260621153852.png"
+                "file": "Pasted image 20260621165501.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260621153852"
+              "title": "Pasted image 20260621165501"
             }
           },
           {
-            "id": "f9a78c28ebcb139c",
+            "id": "86ec41eaf9bb8253",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260621153404.png"
+                "file": "Pasted image 20260621164743.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260621153404"
+              "title": "Pasted image 20260621164743"
             }
           }
         ]
@@ -229,10 +229,13 @@
   },
   "active": "d8f524936e6ff4b7",
   "lastOpenFiles": [
-    "Pasted image 20260621154108.png",
-    "Pasted image 20260621153852.png",
-    "Pasted image 20260621153404.png",
+    "Pasted image 20260621165848.png",
+    "Pasted image 20260621165501.png",
+    "Pasted image 20260621164743.png",
     "系统课程/信号与系统/连续系统的时域分析.md",
+    "Pasted image 20260621153404.png",
+    "Pasted image 20260621153852.png",
+    "Pasted image 20260621154108.png",
     "Pasted image 20260621144222.png",
     "系统课程/信号与系统/连续信号的时域分析.md",
     "Pasted image 20260621230638.png",
@@ -243,8 +246,6 @@
     "系统课程/信号与系统/连续信号的频域分析.md",
     "系统课程/信号与系统/离散信号.md",
     "Pasted image 20260621225042.png",
-    "Pasted image 20260621225020.png",
-    "Pasted image 20260621225001.png",
     "Agent Skills橙皮书_花椒.md",
     "系统课程/信号与系统/连续信号的频域分析",
     "系统课程/信号与系统/连续系统的频域分析",
