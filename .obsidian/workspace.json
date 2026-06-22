@@ -20,6 +20,42 @@
               "icon": "lucide-file",
               "title": "连续信号的频域分析"
             }
+          },
+          {
+            "id": "245b5b89f4ababc1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260622215556.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260622215556"
+            }
+          },
+          {
+            "id": "0ac05531d8bc83f5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260622215540.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260622215540"
+            }
+          },
+          {
+            "id": "c8f10bc1993c3aa4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260622215509.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260622215509"
+            }
           }
         ]
       }
@@ -193,22 +229,22 @@
   },
   "active": "d8f524936e6ff4b7",
   "lastOpenFiles": [
-    "Pasted image 20260622221944.png",
-    "Pasted image 20260622221924.png",
-    "Pasted image 20260622221919.png",
-    "Pasted image 20260622215556.png",
-    "Pasted image 20260622215540.png",
     "Pasted image 20260622215509.png",
+    "Pasted image 20260622215556.png",
+    "系统课程/信号与系统/连续信号的频域分析.md",
+    "Pasted image 20260622215540.png",
+    "Pasted image 20260622225009.png",
     "Pasted image 20260622214832.png",
     "Pasted image 20260622214721.png",
     "Pasted image 20260622214343.png",
     "Pasted image 20260622213954.png",
-    "Pasted image 20260622213607.png",
+    "Pasted image 20260622223327.png",
+    "Pasted image 20260622221944.png",
+    "Pasted image 20260622221924.png",
     "系统课程/信号与系统/连续系统的时域分析.md",
     "系统课程/信号与系统/连续信号的时域分析.md",
     "系统课程/信号与系统/连续系统的频域分析.md",
     "系统课程/信号与系统/未命名 1.md",
-    "系统课程/信号与系统/连续信号的频域分析.md",
     "系统课程/信号与系统/离散信号.md",
     "Agent Skills橙皮书_花椒.md",
     "系统课程/信号与系统/连续信号的频域分析",
