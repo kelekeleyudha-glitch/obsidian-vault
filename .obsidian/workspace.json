@@ -13,38 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统课程/信号与系统/拉普拉斯变换.md",
+                "file": "系统课程/高频电子线路/总复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拉普拉斯变换"
-            }
-          },
-          {
-            "id": "457284d70e97e834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统课程/信号与系统/考纲.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "考纲"
-            }
-          },
-          {
-            "id": "1b9fdd06cb893e62",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260623123915.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260623123915"
+              "title": "总复习"
             }
           }
         ]
@@ -219,22 +193,32 @@
   },
   "active": "62132363bcfa96e4",
   "lastOpenFiles": [
-    "Pasted image 20260624081349.png",
-    "Pasted image 20260624081313.png",
-    "Pasted image 20260624080830.png",
-    "Pasted image 20260624080643.png",
-    "Pasted image 20260624080551.png",
-    "系统课程/信号与系统/傅里叶变换的应用.md",
-    "系统课程/信号与系统/拉普拉斯变换.md",
-    "系统课程/信号与系统/离散时间系统的变换域分析.md",
-    "Pasted image 20260624075353.png",
-    "Pasted image 20260624075258.png",
-    "Pasted image 20260624075201.png",
-    "Pasted image 20260624075028.png",
-    "Pasted image 20260624074651.png",
-    "Pasted image 20260624074613.png",
-    "系统课程/信号与系统/连续信号的时域分析.md",
+    "Pasted image 20260625211159.png",
+    "Pasted image 20260625211136.png",
+    "Pasted image 20260625211026.png",
+    "Pasted image 20260625210804.png",
+    "Pasted image 20260625210628.png",
+    "Pasted image 20260625210615.png",
+    "系统课程/高频电子线路/角度调制与解调.md",
+    "系统课程/高频电子线路/总复习.md",
+    "Pasted image 20260625210227.png",
+    "Pasted image 20260625210150.png",
+    "系统课程/高频电子线路/高频功率放大.md",
+    "系统课程/高频电子线路/谐振与小信号选频放大.md",
+    "系统课程/高频电子线路/正弦波震荡电路.md",
+    "系统课程/高频电子线路/振幅调制与解调.md",
+    "系统课程/高频电子线路/反馈控制.md",
+    "Pasted image 20260625204813.png",
+    "Pasted image 20260625204747.png",
+    "Pasted image 20260625204713.png",
     "系统课程/信号与系统/考纲.md",
+    "系统课程/信号与系统/拉普拉斯变换.md",
+    "系统课程/高频电子线路",
+    "系统课程/信号与系统/未命名",
+    "系统课程/未命名.md",
+    "系统课程/信号与系统/傅里叶变换的应用.md",
+    "系统课程/信号与系统/离散时间系统的变换域分析.md",
+    "系统课程/信号与系统/连续信号的时域分析.md",
     "系统课程/信号与系统/连续信号的频域分析.md",
     "系统课程/信号与系统/连续系统的时域分析.md",
     "系统课程/信号与系统/连续系统的频域分析.md",
@@ -244,7 +228,6 @@
     "系统课程/信号与系统/连续系统的频域分析",
     "系统课程/信号与系统",
     "未命名",
-    "系统课程/未命名.md",
     "系统课程",
     "Pasted image 20260617050054.png.md",
     "欢迎.md",
