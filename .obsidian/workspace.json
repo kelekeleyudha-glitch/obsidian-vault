@@ -25,15 +25,18 @@
             "id": "41ca1b66e1b61c9b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260706222453.png"
+                "file": "竞赛培训/2021电赛信号类.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260706222453"
+              "icon": "lucide-file",
+              "title": "2021电赛信号类"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,9 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62132363bcfa96e4",
+  "active": "41ca1b66e1b61c9b",
   "lastOpenFiles": [
+    "Pasted image 20260711153123.png",
+    "Pasted image 20260711153028.png",
     "Pasted image 20260706222453.png",
+    "竞赛培训/2021电赛信号类.md",
+    "竞赛培训",
+    "竞赛培训.md",
     "岷山PA/芯片记录.md",
     "系统课程/微机原理/中断.md",
     "岷山PA",
@@ -219,7 +227,6 @@
     "Pasted image 20260628091801.png",
     "系统课程/微机原理/串口.md",
     "Pasted image 20260628091623.png",
-    "Pasted image 20260628091612.png",
     "系统课程/微机原理/定时器.md",
     "系统课程/微机原理/IO.md",
     "系统课程/微机原理/微机结构.md",
@@ -242,13 +249,10 @@
     "系统课程/信号与系统/连续信号的频域分析.md",
     "系统课程/信号与系统/连续系统的时域分析.md",
     "系统课程/信号与系统/连续系统的频域分析.md",
-    "系统课程/信号与系统/离散信号.md",
-    "Agent Skills橙皮书_花椒.md",
     "系统课程/信号与系统/连续信号的频域分析",
     "系统课程/信号与系统/连续系统的频域分析",
     "系统课程/信号与系统",
     "系统课程",
-    "Agent Skills橙皮书给AI装技能的完全指南 1.epub",
-    "Agent Skills橙皮书给AI装技能的完全指南.epub"
+    "Agent Skills橙皮书给AI装技能的完全指南 1.epub"
   ]
 }
